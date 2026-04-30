@@ -17,7 +17,7 @@ spec:
         app: solar-system
     spec:
       containers:
-      - image: luzarow/solar-system:fda49b6c38365c8643576ff48eb956734e94fb20
+      - image: luzarow/solar-system:f573b88ee0289743faa071e653ec88d67ef19ec7
         imagePullPolicy: Always
         name: solar-system
         ports:
